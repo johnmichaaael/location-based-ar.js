@@ -70,8 +70,8 @@ AFRAME.registerComponent("location-model", {
 
 let locations = [
   {
-    latitude: 8.318892,
-    longitude: 124.85917,
+    latitude: 8.359576,
+    longitude: 124.869019,
     name: "Location 1"
   },
   {
